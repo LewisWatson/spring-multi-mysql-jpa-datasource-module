@@ -1,1 +1,4 @@
 **/.mvn
+.project
+.settings/
+
